@@ -1,0 +1,11 @@
+{
+  "name": "shigma",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "npx sponsorkit"
+  },
+  "devDependencies": {
+    "sponsorkit": "^0.8.5"
+  }
+}

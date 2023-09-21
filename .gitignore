@@ -1,6 +1,4 @@
-*.json
-!public/*
-!package.json
+cache
 node_modules
 pnpm-lock.yaml
 yarn.lock
