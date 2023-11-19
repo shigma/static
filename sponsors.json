@@ -102,14 +102,6 @@
           "expire_time": 1703606400,
           "sku_processed": [],
           "rankType": 1
-        },
-        {
-          "name": "自选方案",
-          "plan_id": "",
-          "price": "100.00",
-          "expire_time": 1700323200,
-          "sku_processed": [],
-          "rankType": 40
         }
       ],
       "current_plan": {
